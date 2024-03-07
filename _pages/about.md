@@ -1,5 +1,6 @@
 ---
 layout: about
+permalink: /
 title: Yuqi Lee
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
