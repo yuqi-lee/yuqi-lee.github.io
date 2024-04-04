@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-07-12 16:45:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am admitted to the [geophysics major](https://ess.ustc.edu.cn/main.htm) of [University of Science and Technology of China](https://www.ustc.edu.cn/) :sparkles: :smile:
