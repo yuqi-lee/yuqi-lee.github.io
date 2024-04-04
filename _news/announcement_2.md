@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I change my major to [Computer Science and Technology](https://cs.ustc.edu.cn/main.htm). :overheated: :clown:
+I change my major to [Computer Science and Technology](https://cs.ustc.edu.cn/main.htm). 
+:overheated: :clown:
