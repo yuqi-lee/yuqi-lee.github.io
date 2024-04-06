@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a post with github metadata
-date: 2020-09-28 21:01:00
+title: 代数结构笔记（一）
+date: 2020-06-02 20:03:00
 description: a quick run down on accessing github metadata.
 tags: metadata
 categories: sample-posts external-services
